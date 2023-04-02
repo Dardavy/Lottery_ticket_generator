@@ -1,2 +1,1 @@
-lottery app build using python
-# lucky_number_gen
+here is lottery number generator app updated build with python
