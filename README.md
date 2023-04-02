@@ -1,1 +1,1 @@
-this is the appthat generate lottery ticket lucky numbers
+this is the app that generate lottery ticket lucky numbers
